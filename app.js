@@ -1,1 +1,8 @@
-// write code here
+const country = 'Thailand';
+const continent = 'Asia';
+console.log(`number is ${2}`); //number is ...
+console.log(`result is ${1 + 3}`);
+console.log(`I live in ${country}`);
+console.log(`I live in ${country}, ${continent}`);
+console.log(`I live in ${country + ', ' + continent}`);
+console.log(`I live in ${'country, continent'}`);
